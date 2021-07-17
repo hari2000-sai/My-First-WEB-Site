@@ -1,0 +1,97 @@
+body{
+  background-color:black;
+}
+.center {
+  background-position: center;
+  margin-left: 40%;
+  margin-top: 6%;
+  width: 25%;
+  border-radius: 50%;
+}
+p{
+  align-content: center;
+  color: darkred;
+}
+h1{
+  color: blue;
+  padding-left: 45%;
+  border-radius: 10%;
+}
+h4{
+  color:white;
+  padding-left: 32%;
+  border-radius: 10%;
+
+}
+h2{
+  padding-left: 45%;
+  border-radius: 10%;
+  color: red;
+   font-family: ui-rounded;
+    font-style: oblique;
+}
+div{
+  color: white;
+  grid-gap:50px;
+  padding-left: 15%;
+
+}
+.tittle{
+  color: rgb(241, 68, 77);
+    font-size: 50px;
+    padding-left: 27px;
+    margin-left: 500px;
+    margin-right: 525px;
+    font-family: ui-rounded;
+    font-style: oblique;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 80px;
+    font-family: ui-rounded;
+    font-style: oblique;
+    border-top-style: groove;
+    border-bottom-style: groove;
+    border-color: #ff6868;
+    margin-top: 10px;
+    }
+.about{
+  olor: rgb(216, 126, 126);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20x;
+    margin-right: 209px;
+    border-top-right-radius: 130px;
+    border-bottom-right-radius: 130px;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-left-radius: 130px;
+    border-bottom-left-radius: 130px;
+    border-color: #ff0000ad;
+    margin-left: 241px;
+    padding-bottom: 2px;
+    padding-top: 20px;
+    margin-top: 10px;
+    text-align: center;
+      }
+      .contact{
+        color: blue;
+       margin-left: 150px;
+       margin-top: 30px;
+       
+      }
+    .nn{
+      margin-left: 380px;
+    }
+    .bu{
+      margin-top: 20px;
+      background-color: green;
+       margin-left: 380px;}
+    .last{
+      height: 100px;
+  background-size:inherit;
+  background-image: linear-gradient(to right,blue 0%,red 100%),url('w3css.gif');
+  background-blend-mode: normal;
+  margin-top: 20px;
+  color: black;
+  column-gap: 20px;
+  } 
